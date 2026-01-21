@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+  background-color: rgb(255, 10, 126);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#oneID {
+  color: hsl(212, 78%, 59%);
+  font-size: 36px;
+}
+
+#anotherID {
+  background-color: #43E84E;
+  font-size: 24px;
+  font-weight: bold;
+}
